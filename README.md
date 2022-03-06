@@ -1,2 +1,3 @@
 # nauka
-nauka programowania
+nauka programowania :)
+
